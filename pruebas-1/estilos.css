@@ -1,0 +1,21 @@
+.portada{
+    background-image: url(https://img.freepik.com/fotos-premium/poder-majestuoso-leon-juda-ia-generativa_431161-7957.jpg);
+    height: 480px;
+    width: 680px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 15px 0 0 15px;
+}
+
+.caja{
+    display: flex;
+}
+
+.letrasP{
+    background-color: darkorange;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 60px;
+    background-size: cover;
+    border-radius: 0 15px 15px 0;
+}
